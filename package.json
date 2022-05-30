@@ -1,0 +1,16 @@
+{
+  "name": "poo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "ts-node-dev --respawn src/others.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node-dev": "1.1.8",
+    "typescript": "4.6.4"
+  }
+}
